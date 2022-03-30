@@ -1,0 +1,20 @@
+WEBOLDAL
+
+	tud pizzát választani, db számot megadni
+	(ez bekerül az adatbázisba)
+
+ADATBÁZIS
+
+	táblák:
+		- termékek (típus, db)
+		- felhasználók (jogosultságok)
+		- vásárlók (belép, vagy regisztrál)
+		- rendelések
+
+C# WPF
+
+	időnként frissítjük az adatbázist
+
+	jogosultságok szerint lehet:
+		- új adatot felvinni (termék, felhasználó)
+		- módosítani
